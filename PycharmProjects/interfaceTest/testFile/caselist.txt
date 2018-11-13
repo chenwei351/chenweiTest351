@@ -1,0 +1,11 @@
+[DATABASE]
+host=192.168.16.31
+username = dev
+passwoed = jmdevcd
+port = 9001
+databasename =  Test1
+
+[HTTP]
+baseurl = http://192.168.17.23:8080/debug/index
+timeout = 1.0
+
