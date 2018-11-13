@@ -1,4 +1,4 @@
-#python3 苹果系统使用pip自动导入第三方库
+python3 苹果系统使用pip自动导入第三方库
 sudo python3 -m pip install numpy
 
 接口测试小结：
